@@ -1,14 +1,13 @@
-# buildkittens
+# build-kittens
 
-A Clojure library designed to ... well, that part is up to you.
+build-kittens is a collection of scripts and code that are used to do
+various build-related activities.
+May feature lolcatz at some point in the future.
 
 ## Usage
 
-FIXME
+This stuff is pretty much one-off right now. No guarantees.
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2015 Aaron Decker
